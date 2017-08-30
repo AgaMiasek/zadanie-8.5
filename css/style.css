@@ -1,0 +1,29 @@
+body {
+	background: #ccc;
+	font-family: Arial,sans-serif;
+}
+
+h1 {
+	text-align: center;
+	color: blue;
+	text-transform: uppercase;
+	font-size: 30px; 
+}
+
+section {
+	padding: 0 50px;
+	text-align: center; 
+}
+ section h2 {
+	color: green;
+	font-size: 25px; 
+}
+section img {
+	border: 1px solid yellow;
+    margin: 20px auto;
+    display: block;
+}
+section p {
+    font-size: 20px;
+    color: green; 
+}
